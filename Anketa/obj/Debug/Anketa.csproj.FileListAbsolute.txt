@@ -1,0 +1,26 @@
+F:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm(спискові елементи, Radiobutton, Cheked)_ADO.NET\Anketa\Anketa\bin\Debug\Anketa.exe.config
+F:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm(спискові елементи, Radiobutton, Cheked)_ADO.NET\Anketa\Anketa\bin\Debug\Anketa.exe
+F:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm(спискові елементи, Radiobutton, Cheked)_ADO.NET\Anketa\Anketa\bin\Debug\Anketa.pdb
+F:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm(спискові елементи, Radiobutton, Cheked)_ADO.NET\Anketa\Anketa\obj\Debug\Anketa.csprojAssemblyReference.cache
+F:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm(спискові елементи, Radiobutton, Cheked)_ADO.NET\Anketa\Anketa\obj\Debug\Anketa.Anketa.resources
+F:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm(спискові елементи, Radiobutton, Cheked)_ADO.NET\Anketa\Anketa\obj\Debug\Anketa.Properties.Resources.resources
+F:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm(спискові елементи, Radiobutton, Cheked)_ADO.NET\Anketa\Anketa\obj\Debug\Anketa.csproj.GenerateResource.cache
+F:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm(спискові елементи, Radiobutton, Cheked)_ADO.NET\Anketa\Anketa\obj\Debug\Anketa.csproj.CoreCompileInputs.cache
+F:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm(спискові елементи, Radiobutton, Cheked)_ADO.NET\Anketa\Anketa\obj\Debug\Anketa.exe
+F:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm(спискові елементи, Radiobutton, Cheked)_ADO.NET\Anketa\Anketa\obj\Debug\Anketa.pdb
+F:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm(спискові елементи, Radiobutton, Cheked)_ADO.NET\Anketa\Anketa\bin\Debug\Newtonsoft.Json.dll
+F:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm(спискові елементи, Radiobutton, Cheked)_ADO.NET\Anketa\Anketa\bin\Debug\Newtonsoft.Json.xml
+F:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm(спискові елементи, Radiobutton, Cheked)_ADO.NET\Anketa\Anketa\obj\Debug\Anketa.csproj.CopyComplete
+f:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm (TabControl, Panel, Cheked, ChekBox, RadioButton, ComboBox, ListBox)_JSON\Anketa\Anketa\bin\Debug\Anketa.exe.config
+f:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm (TabControl, Panel, Cheked, ChekBox, RadioButton, ComboBox, ListBox)_JSON\Anketa\Anketa\bin\Debug\Anketa.exe
+f:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm (TabControl, Panel, Cheked, ChekBox, RadioButton, ComboBox, ListBox)_JSON\Anketa\Anketa\bin\Debug\Anketa.pdb
+f:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm (TabControl, Panel, Cheked, ChekBox, RadioButton, ComboBox, ListBox)_JSON\Anketa\Anketa\bin\Debug\Newtonsoft.Json.dll
+f:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm (TabControl, Panel, Cheked, ChekBox, RadioButton, ComboBox, ListBox)_JSON\Anketa\Anketa\bin\Debug\Newtonsoft.Json.xml
+f:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm (TabControl, Panel, Cheked, ChekBox, RadioButton, ComboBox, ListBox)_JSON\Anketa\Anketa\obj\Debug\Anketa.csprojAssemblyReference.cache
+f:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm (TabControl, Panel, Cheked, ChekBox, RadioButton, ComboBox, ListBox)_JSON\Anketa\Anketa\obj\Debug\Anketa.Anketa.resources
+f:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm (TabControl, Panel, Cheked, ChekBox, RadioButton, ComboBox, ListBox)_JSON\Anketa\Anketa\obj\Debug\Anketa.Properties.Resources.resources
+f:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm (TabControl, Panel, Cheked, ChekBox, RadioButton, ComboBox, ListBox)_JSON\Anketa\Anketa\obj\Debug\Anketa.csproj.GenerateResource.cache
+f:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm (TabControl, Panel, Cheked, ChekBox, RadioButton, ComboBox, ListBox)_JSON\Anketa\Anketa\obj\Debug\Anketa.csproj.CoreCompileInputs.cache
+f:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm (TabControl, Panel, Cheked, ChekBox, RadioButton, ComboBox, ListBox)_JSON\Anketa\Anketa\obj\Debug\Anketa.csproj.CopyComplete
+f:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm (TabControl, Panel, Cheked, ChekBox, RadioButton, ComboBox, ListBox)_JSON\Anketa\Anketa\obj\Debug\Anketa.exe
+f:\YURKO\SHAG\Project C#\13_04072021_Lab_WindowsForm (TabControl, Panel, Cheked, ChekBox, RadioButton, ComboBox, ListBox)_JSON\Anketa\Anketa\obj\Debug\Anketa.pdb
